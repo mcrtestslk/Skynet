@@ -26,5 +26,5 @@
 
 
 Cypress.Commands.add('doAThing', () => {
-    console.log("A thing has been done!");
+
 })
